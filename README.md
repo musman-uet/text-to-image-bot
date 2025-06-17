@@ -39,7 +39,18 @@ Prompt:
 
 Generated Output:
 
-![Generated Example](generated_image.png)
+There is an image with the name of cloud
+
+Prompt:
+```
+"A hot girl at a beach."
+```
+
+Generated Output:
+
+There is an image with the anme of hot girl.
+
+
 
 ## 🧠 Model Used
 
@@ -56,7 +67,7 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-Abdul Nasser Alkhalaf
+Muhammad Usman
 
 ---
 
